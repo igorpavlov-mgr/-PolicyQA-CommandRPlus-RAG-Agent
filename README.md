@@ -64,3 +64,6 @@ Built by Igor Pavlov as a showcase of RAG, Cohere Command R+ LLM, model observab
 # License
 
 MIT License — for educational and demonstration purposes.
+
+# Live Demo
+Try it out on [Hugging Face Spaces](https://huggingface.co/spaces/igorpavlov-mgr/PolicyQA-CommandRPlus-RAG-Agent)
